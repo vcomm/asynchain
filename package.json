@@ -1,0 +1,20 @@
+{
+  "name": "asynchain",
+  "version": "1.0.0",
+  "description": "Async chain engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcomm/asynchain.git"
+  },
+  "keywords": [
+    "async",
+    "chain",
+    "engine"
+  ],
+  "author": "Yakov Liskoff",
+  "license": "MIT"
+}
