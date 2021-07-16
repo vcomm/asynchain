@@ -2,7 +2,7 @@
 class asynChain {
 
     constructor(funcs) {
-        this._seqfuncs_ = funcs || []
+        this._seqfuncs_ = funcs.flat() || []
         this._cloneseq_ = []
     }
 
